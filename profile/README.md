@@ -1,5 +1,5 @@
-## Hallo 👋
+## Hello there 👋
 
-Wir sind das SunLightScorpion Team, wir haben einen Minecraft Server (PlayScorpion.de) und programmieren auch nützliche Programme!
+We are the SunLightScorpion team, we develop spigot plugin and other tools!
 
 Besuche uns gerne auf https://www.sunlightscorpion.de/ !
