@@ -4,4 +4,4 @@ We are the SunLightScorpion team, we develop spigot plugin and other tools!
 
 
 
-© SunLightScorpion 2020 - 2023
+© SunLightScorpion 2020 - 2024
